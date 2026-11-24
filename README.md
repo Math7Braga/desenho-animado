@@ -1,4 +1,12 @@
-# Animated 2D/3D Xavier
+# desenho-animado (versão do Matheus)
+
+Versão modificada da skill [Animated-23D-Xavier](https://github.com/davixavier-coder/Animated-23D-Xavier).
+- **Plano e evolução:** [`ROADMAP.md`](ROADMAP.md) · **Histórico:** [`CHANGELOG.md`](CHANGELOG.md)
+- Novidades planejadas: estilos escolhíveis, séries em capítulos e episódio longo 16:9 para o YouTube.
+
+---
+
+# Animated 2D/3D Xavier (README original)
 
 A skill grátis dos vídeos **"Como Fazer Shorts Animados Virais Usando o Claude (Fluxo Completo)"** e **"Como Fazer
 Shorts Animados Virais em 3D com o Claude (Passo a Passo Completo)"**, em português.

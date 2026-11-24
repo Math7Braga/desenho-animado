@@ -1,0 +1,11 @@
+node_modules/
+out/
+*.mp4
+*.mov
+remotion-webpack-bundle-*/
+.remotion/
+dist/
+build/
+.DS_Store
+Thumbs.db
+.env
